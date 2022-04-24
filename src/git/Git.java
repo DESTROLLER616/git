@@ -5,6 +5,6 @@ public class Git {
         int x = 5, y = 10;
         
         System.out.println("Suma: " + x+y);
-    }
-    
+        System.out.println("Resta: " + (x-y));
+    } 
 }
